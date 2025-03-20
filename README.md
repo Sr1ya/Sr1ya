@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">MLOps/LLMOps Engineer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sr1ya&label=Profile%20views&color=0e75b6&style=flat" alt="sr1ya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sr1ya" alt="sr1ya" /></a> </p>
-
 - 🔭 I’m currently working on **gprmax chatbot**
 
 - 🌱 I’m currently learning **AWS Sagemaker**
