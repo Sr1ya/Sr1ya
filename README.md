@@ -33,11 +33,9 @@
 <p><a href="https://www.buymeacoffee.com/sr1ya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sr1ya" /></a><a href="https://ko-fi.com/sriya"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sriya" /></a></p><br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sr1ya&show_icons=true&locale=en&layout=compact" alt="sr1ya" height="180px" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sr1ya" alt="sr1ya" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sr1ya&show_icons=true&locale=en&layout=compact" alt="sr1ya" style="vertical-align: middle; height: 200px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sr1ya" alt="sr1ya" style="vertical-align: middle; height: 200px;" />
 </p>
-
 
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
