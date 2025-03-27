@@ -39,7 +39,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sr1ya&show_icons=true&locale=en&layout=compact" alt="sr1ya" width="400" height="200" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sr1ya" alt="sr1ya" width="500" height="300" />
+      <img src="https://streak-stats.demolab.com/?user=Sr1ya&theme=dark" alt="sr1ya" width="500" height="300" />
     </td>
   </tr>
 </table>
