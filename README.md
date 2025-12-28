@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **AWS Sagemaker**
 
-- 👯 I’m looking to collaborate on [gprmax](https://github.com/eddieleejw/gprmax_chatbot)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Sr1ya?tab=repositories](https://github.com/Sr1ya?tab=repositories)
 
 - 📫 How to reach me **sriyaflows@gmail.com**
