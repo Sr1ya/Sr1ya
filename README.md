@@ -20,7 +20,7 @@ AI/ML Engineer focused on **agentic systems and applied GenAI** — going beyond
 
 - 🔭 Currently building agentic fintech prototypes — KYC/KYB automation and adaptive payment routing
 - 🧠 Core interest: keeping LLMs on the *reasoning/explaining* surface while decisions stay in deterministic, auditable code
-- 🌱 Learning: AWS SageMaker, production LLM observability
+- 🌱 Learning: LLM GuardRails & LLM Evals
 - 📫 Reach me at **sriyaflows@gmail.com**
 
 <br>
