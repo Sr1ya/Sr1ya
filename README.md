@@ -33,13 +33,13 @@ AI/ML Engineer focused on **agentic systems and applied GenAI** — going beyond
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" />
 <img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/LiteLLM-0EA5E9?style=flat-square&logo=litellm&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" />
+<img src="https://img.shields.io/badge/LiteLLM-0EA5E9?style=flat-square" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" />
 <img src="https://img.shields.io/badge/Unsloth-1a1a2e?style=flat-square" />
-<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" />
 
 **ML / Deep Learning**
 
@@ -61,7 +61,7 @@ AI/ML Engineer focused on **agentic systems and applied GenAI** — going beyond
 
 **Cloud / MLOps**
 
-<img src="https://img.shields.io/badge/AWS%20SageMaker-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20SageMaker-232F3E?style=flat-square" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -166,10 +166,12 @@ Dual-AI resume enhancement pipeline (OpenAI GPT + Google Gemini) that parses res
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sr1ya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sr1ya&layout=compact&theme=tokyonight&hide_border=true" />
-
 <img src="https://streak-stats.demolab.com/?user=Sr1ya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br>
+
+<img src="https://img.shields.io/github/followers/Sr1ya?style=for-the-badge&color=00C6FF&labelColor=1a1a2e" alt="GitHub followers" />
+<img src="https://komarev.com/ghpvc/?username=Sr1ya&style=for-the-badge&color=00c6ff&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
