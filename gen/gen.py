@@ -45,7 +45,7 @@ def banner(t, T):
 <rect width="{W}" height="{H}" fill="{T["bg"]}"/>
 {"".join(edges)}{dots}
 <text x="40" y="104" class="n">Sriya</text>
-<text x="42" y="146" class="r">AI / GenAI Engineer — agents, LLMs &amp; applied ML</text>
+<text x="42" y="146" class="r">AI / GenAI Engineer — agents, LLMs &amp; native apps in Rust</text>
 <text x="42" y="196" class="m">let the model explain; let the code decide<tspan class="c" fill="{T["c1"]}"> ▌</tspan></text>
 <rect x="40" y="226" width="220" height="3" rx="1.5" fill="url(#g)"/>
 </svg>'''
