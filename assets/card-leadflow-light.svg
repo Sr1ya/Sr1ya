@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="270" viewBox="0 0 590 270" role="img" aria-label="LeadFlow Agent">
+<defs>
+  <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#db2777"/><stop offset=".6" stop-color="#e2e8f0"/><stop offset="1" stop-color="#e2e8f0"/></linearGradient>
+  <linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#db2777" stop-opacity="0"/><stop offset=".5" stop-color="#db2777" stop-opacity=".10"/><stop offset="1" stop-color="#db2777" stop-opacity="0"/></linearGradient>
+  <radialGradient id="gl" cx="0" cy="0" r="1"><stop offset="0" stop-color="#db2777" stop-opacity="0.11"/><stop offset="1" stop-color="#db2777" stop-opacity="0"/></radialGradient>
+  <clipPath id="c"><rect width="590" height="270" rx="18"/></clipPath>
+  <style>
+    .t { font: 800 25px 'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #0f172a; letter-spacing: -.3px; }
+    .d { font: 400 15.5px 'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #475569; }
+    .p { font: 600 12.5px 'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'DejaVu Sans Mono', monospace; }
+    .b { font: 700 12.5px 'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'DejaVu Sans Mono', monospace; letter-spacing: 1px; }
+    .i { font: 26px 'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .sh { animation: sh 5s ease-in-out infinite; }
+    @keyframes sh { 0% { transform: translateX(-300px) } 60%,100% { transform: translateX(890px) } }
+    .ring { transform-box: fill-box; transform-origin: center; animation: spin 10s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg) } }
+  </style>
+</defs>
+<g clip-path="url(#c)">
+  <rect width="590" height="270" fill="#ffffff"/>
+  <rect width="590" height="270" fill="url(#gl)"/>
+  <rect class="sh" x="0" y="0" width="220" height="270" fill="url(#sh)" transform="skewX(-20)"/>
+  <rect x="0" y="0" width="590" height="4" fill="#db2777"/>
+</g>
+<rect x="1" y="1" width="588" height="268" rx="17" fill="none" stroke="url(#bd)" stroke-width="2"/>
+<circle cx="56" cy="62" r="24" fill="#db2777" fill-opacity="0.14"/>
+<circle class="ring" cx="56" cy="62" r="24" fill="none" stroke="#db2777" stroke-width="2" stroke-dasharray="18 10"/>
+<g transform="translate(56 62)"><circle cx="-3" cy="-3" r="7.5" fill="none" stroke="#db2777" stroke-width="2.4"/><path d="M3 3L10 10" stroke="#db2777" stroke-width="2.6" stroke-linecap="round"/></g>
+<text x="96" y="72" class="t">LeadFlow Agent</text>
+
+<text x="32" y="124" class="d">Self-hosted lead-gen chat agent that searches X and LinkedIn,</text><text x="32" y="148" class="d">curates leads, and remembers targeting criteria across</text><text x="32" y="172" class="d">conversations using plain markdown as memory. Sandboxed CLI tool-</text><text x="32" y="196" class="d">use through an OpenAI-compatible gateway.</text>
+<rect x="32" y="222" width="102" height="26" rx="13" fill="#db2777" fill-opacity="0.12" stroke="#db2777" stroke-opacity="0.35"/><text x="83" y="240" text-anchor="middle" class="p" fill="#db2777">TypeScript</text><rect x="142" y="222" width="118" height="26" rx="13" fill="#db2777" fill-opacity="0.12" stroke="#db2777" stroke-opacity="0.35"/><text x="201" y="240" text-anchor="middle" class="p" fill="#db2777">LangChain v1</text><rect x="268" y="222" width="118" height="26" rx="13" fill="#db2777" fill-opacity="0.12" stroke="#db2777" stroke-opacity="0.35"/><text x="327" y="240" text-anchor="middle" class="p" fill="#db2777">Agent Memory</text>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="270" viewBox="0 0 590 270" role="img" aria-label="KYC / Onboarding Agent">
+<defs>
+  <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset=".6" stop-color="#e2e8f0"/><stop offset="1" stop-color="#e2e8f0"/></linearGradient>
+  <linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#7c3aed" stop-opacity="0"/><stop offset=".5" stop-color="#7c3aed" stop-opacity=".10"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></linearGradient>
+  <radialGradient id="gl" cx="0" cy="0" r="1"><stop offset="0" stop-color="#7c3aed" stop-opacity="0.11"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+  <clipPath id="c"><rect width="590" height="270" rx="18"/></clipPath>
+  <style>
+    .t { font: 800 25px 'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #0f172a; letter-spacing: -.3px; }
+    .d { font: 400 15.5px 'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #475569; }
+    .p { font: 600 12.5px 'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'DejaVu Sans Mono', monospace; }
+    .b { font: 700 12.5px 'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'DejaVu Sans Mono', monospace; letter-spacing: 1px; }
+    .i { font: 26px 'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .sh { animation: sh 5s ease-in-out infinite; }
+    @keyframes sh { 0% { transform: translateX(-300px) } 60%,100% { transform: translateX(890px) } }
+    .ring { transform-box: fill-box; transform-origin: center; animation: spin 10s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg) } }
+  </style>
+</defs>
+<g clip-path="url(#c)">
+  <rect width="590" height="270" fill="#ffffff"/>
+  <rect width="590" height="270" fill="url(#gl)"/>
+  <rect class="sh" x="0" y="0" width="220" height="270" fill="url(#sh)" transform="skewX(-20)"/>
+  <rect x="0" y="0" width="590" height="4" fill="#7c3aed"/>
+</g>
+<rect x="1" y="1" width="588" height="268" rx="17" fill="none" stroke="url(#bd)" stroke-width="2"/>
+<circle cx="56" cy="62" r="24" fill="#7c3aed" fill-opacity="0.14"/>
+<circle class="ring" cx="56" cy="62" r="24" fill="none" stroke="#7c3aed" stroke-width="2" stroke-dasharray="18 10"/>
+<g transform="translate(56 62)"><rect x="-12" y="-9" width="24" height="18" rx="3" fill="none" stroke="#7c3aed" stroke-width="2.2"/><circle cx="-5" cy="-1" r="3" fill="#7c3aed"/><path d="M1 -3H8M1 2H6" stroke="#7c3aed" stroke-width="2" stroke-linecap="round"/></g>
+<text x="96" y="72" class="t">KYC / Onboarding Agent</text>
+<rect x="474" y="30" width="84" height="26" rx="13" fill="#7c3aed" fill-opacity="0.16" stroke="#7c3aed"/><text x="516" y="48" text-anchor="middle" class="b" fill="#7c3aed">FINTECH</text>
+<text x="32" y="124" class="d">KYC/KYB agent that uses Claude vision to extract facts from</text><text x="32" y="148" class="d">documents, then routes every decision through deterministic,</text><text x="32" y="172" class="d">auditable code. LangGraph pipeline, LiteLLM gateway logging</text><text x="32" y="196" class="d">cost/latency/tokens, PII-redaction guardrails.</text>
+<rect x="32" y="222" width="94" height="26" rx="13" fill="#7c3aed" fill-opacity="0.12" stroke="#7c3aed" stroke-opacity="0.35"/><text x="79" y="240" text-anchor="middle" class="p" fill="#7c3aed">LangGraph</text><rect x="134" y="222" width="126" height="26" rx="13" fill="#7c3aed" fill-opacity="0.12" stroke="#7c3aed" stroke-opacity="0.35"/><text x="197" y="240" text-anchor="middle" class="p" fill="#7c3aed">Claude Vision</text><rect x="268" y="222" width="78" height="26" rx="13" fill="#7c3aed" fill-opacity="0.12" stroke="#7c3aed" stroke-opacity="0.35"/><text x="307" y="240" text-anchor="middle" class="p" fill="#7c3aed">LiteLLM</text><rect x="354" y="222" width="102" height="26" rx="13" fill="#7c3aed" fill-opacity="0.12" stroke="#7c3aed" stroke-opacity="0.35"/><text x="405" y="240" text-anchor="middle" class="p" fill="#7c3aed">Guardrails</text>
+</svg>

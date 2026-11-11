@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="84" viewBox="0 0 1200 84" role="img" aria-label="Featured builds">
+<defs>
+  <linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#00c6ff"/><stop offset=".5" stop-color="#7c3aed"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></linearGradient>
+  <linearGradient id="tg" x1="0" x2="1"><stop offset="0" stop-color="#00c6ff"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+  <style>
+    .n { font: 600 15px 'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'DejaVu Sans Mono', monospace; fill: #00c6ff; letter-spacing: 2px; }
+    .t { font: 800 34px 'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #e2e8f0; letter-spacing: -0.5px; }
+    .s { font: 500 15px 'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'DejaVu Sans Mono', monospace; fill: #94a3b8; }
+    .bar { transform-box: fill-box; transform-origin: left center; animation: grow 1.4s cubic-bezier(.2,.8,.2,1) backwards; }
+    @keyframes grow { from { transform: scaleX(0) } to { transform: scaleX(1) } }
+    .dot { transform-box: view-box; animation: run 3.5s ease-in-out infinite; }
+    @keyframes run { 0% { transform: translateX(0); opacity:0 } 10% { opacity:1 } 90% { opacity:1 } 100% { transform: translateX(760px); opacity:0 } }
+  </style>
+</defs>
+<rect x="0" y="14" width="6" height="52" rx="3" fill="url(#tg)"/>
+<text x="24" y="34" class="n">03 //</text>
+<text x="24" y="70" class="t">Featured builds</text>
+<text x="1200" y="70" text-anchor="end" class="s">agents · genai · ml</text>
+<rect class="bar" x="420" y="56" width="560" height="2" rx="1" fill="url(#l)"/>
+<circle class="dot" cx="420" cy="57" r="3.5" fill="#00c6ff"/>
+</svg>

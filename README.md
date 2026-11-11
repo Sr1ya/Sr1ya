@@ -1,243 +1,150 @@
-<!-- ═════════════════════════════  HEADER  ═════════════════════════════ -->
-<div align="center">
+<!--
+  Profile README for github.com/Sr1ya
+  All artwork in ./assets is hand-drawn animated SVG with dark + light variants.
+  Regenerate with: python gen/gen.py
+-->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi,%20I'm%20Sriya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%2F%20GenAI%20Engineer%20%E2%80%94%20Agents%20%C2%B7%20LLMs%20%C2%B7%20Forecasting%20%C2%B7%20MLOps&descAlignY=58&descSize=18" width="100%"/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+    <img alt="Sriya — AI / GenAI Engineer" src="./assets/hero-light.svg" width="100%">
+  </picture>
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=700&lines=Building+multi-agent+systems+with+LangGraph;Turning+any+website+into+a+narrated+video;Forecasting+infrastructure+failure+before+it+shows;LLM+gateways+%2B+guardrails+%2B+cost+observability;Fine-tuning+open-weight+models+for+real+domains" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<a href="https://sr1ya.vercel.app"><img src="https://img.shields.io/badge/Portfolio-sr1ya.vercel.app-00C6FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/sriyaflows"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/sriyaflows"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://huggingface.co/sriyaflows"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
-<a href="mailto:sriyaflows@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-</div>
-
-<br/>
-
-<!-- ═════════════════════════════  ABOUT  ═════════════════════════════ -->
-## 🧬 About Me
-
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Sr1ya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&icon_color=00c6ff&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-
-AI/ML Engineer building **agentic systems and applied GenAI that hold up in production** — not just notebooks and demos. I design agents with deterministic guardrails, explainability, and cost/latency observability baked in from day one.
-
-My work spans **multi-agent orchestration (LangGraph)**, **LLM gateways with PII redaction & cost logging**, **multimodal retrieval pipelines (CLIP · Whisper · FAISS)**, **time-series forecasting (Prophet + LSTM)**, and **fine-tuning open-weight models**.
-
-- 🔭 Building AI products & automation at **ZyFlux LLP**
-- 🏆 Hackathon winner with **Infra-Pulse** — predictive infrastructure-damage forecasting
-- 🧠 Core belief: LLMs *reason and explain*; decisions live in **deterministic, auditable code**
-- 🌱 Currently deep in: **LLM Evals · Guardrails · Agent memory**
-- 📫 Reach me at **[sriyaflows@gmail.com](mailto:sriyaflows@gmail.com)**
-
-<br clear="right"/>
-
-<!-- ═════════════════════════════  EXPERIENCE  ═════════════════════════════ -->
-## 💼 Experience
-
-| Role | Company | When | Focus |
-|---|---|---|---|
-| **AI Engineer** | ZyFlux LLP | Jan 2026 — Present | AI agents, automation & client GenAI builds |
-| **AI Engineer** | LedgerPe | Aug 2025 — Jan 2026 | KYC/KYB onboarding agent · adaptive payment-routing engine |
-| **GenAI Engineer** | StartCoding AI | Jun — Jul 2025 | LLM apps, RAG, fine-tuning |
-
-🎓 **B.E. in Artificial Intelligence & Machine Learning** · 2020 — 2024
-
-<!-- ═════════════════════════════  TECH STACK  ═════════════════════════════ -->
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,fastapi,flask,pytorch,tensorflow,sklearn,docker,aws,mongodb,postgres,git,linux,react,nextjs,vercel&perline=9" />
-
-</div>
+<p align="center">
+  <a href="https://sr1ya.vercel.app"><img src="https://img.shields.io/badge/portfolio-sr1ya.vercel.app-00c6ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1424"/></a>
+  <a href="https://linkedin.com/in/sriyaflows"><img src="https://img.shields.io/badge/linkedin-sriyaflows-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1424"/></a>
+  <a href="https://x.com/sriyaflows"><img src="https://img.shields.io/badge/x-@sriyaflows-f472b6?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1424"/></a>
+  <a href="https://huggingface.co/sriyaflows"><img src="https://img.shields.io/badge/hugging_face-sriyaflows-facc15?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=0d1424"/></a>
+  <a href="mailto:sriyaflows@gmail.com"><img src="https://img.shields.io/badge/email-say_hi-22c55e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1424"/></a>
+</p>
 
 <br/>
 
-**🤖 GenAI · Agents · LLMs**
+<!-- ───────────── 01 · ABOUT ───────────── -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-about-dark.svg">
+  <img alt="About me" src="./assets/sec-about-light.svg" width="100%">
+</picture>
 
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Llama](https://img.shields.io/badge/Llama%203%20%2F%204-0467DF?style=flat-square&logo=meta&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-0EA5E9?style=flat-square)
-![Unsloth](https://img.shields.io/badge/Unsloth-1a1a2e?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**🔎 Retrieval · Multimodal · Vector Search**
-
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
-![CLIP](https://img.shields.io/badge/CLIP-412991?style=flat-square&logo=openai&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MoviePy](https://img.shields.io/badge/MoviePy-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**📈 ML · Deep Learning · Forecasting**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=flat-square)
-![Prophet](https://img.shields.io/badge/Prophet-0467DF?style=flat-square&logo=meta&logoColor=white)
-![LSTM](https://img.shields.io/badge/LSTM-FF6F00?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**⚙️ Backend · Serving · Apps**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**☁️ Cloud · MLOps · Data**
-
-![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-<!-- ═════════════════════════════  FEATURED  ═════════════════════════════ -->
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏗️ [Infra-Pulse](https://github.com/Sr1ya/Infra-Pulse) &nbsp;`🏆 Hackathon Winner`
-Predicts **infrastructure damage before it becomes visible**. Most monitoring is reactive — Infra-Pulse forecasts degradation from trend data with **Prophet + LSTM**, then an **Ollama**-powered layer turns raw predictions into plain-language maintenance recommendations instead of a bare risk score. Full-stack: risk-over-time dashboard + Python forecasting backend.
-
-`Prophet` `LSTM` `Ollama` `Time-Series` `Full-Stack`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎬 [Text-to-Video Engine](https://github.com/Sr1ya/Text_to_Video) &nbsp;`🆕 New`
-Turns **any website or topic into a narrated, captioned 1080p video**. Crawls text/images/audio/video → builds a **multimodal FAISS index** (CLIP embeddings, Whisper transcripts, SSIM-deduped video frames) → **Llama 4 (Groq)** writes the script → gTTS + MoviePy assemble the final MP4. Streamlit UIs per stage.
-
-`CLIP` `Whisper` `FAISS` `Llama 4` `MoviePy` `Streamlit`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🪪 [LedgerPe KYC/Onboarding Agent](https://github.com/Sr1ya/ledgerpe-kyc-agent)
-KYC/KYB agent using **Claude vision** to extract facts from documents, then routing every decision through deterministic, auditable code — never auto-approving on a low-confidence extraction. **LangGraph** pipeline with mixed LLM/deterministic nodes, a **LiteLLM gateway** logging cost/latency/tokens, and PII-redaction guardrails.
-
-`LangGraph` `Claude Vision` `LiteLLM` `FastAPI` `Guardrails`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧭 [LedgerPe Routing Intelligence Agent](https://github.com/Sr1ya/ledgerpe-routing-agent)
-Adaptive payment-routing engine that learns recurring provider patterns with **statistically rigorous tests** (two-proportion z-tests, hysteresis activation, effect-size floors) and explains every routing decision in audit-friendly language. Deliberately non-LLM for decisions; dashboard for provider health & reasoning.
-
-`Python` `Statistics` `FastAPI` `Explainability`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 [AI Services Agency](https://github.com/Sr1ya/ai-services-agency-langgraph)
-Multi-agent project-intake pipeline: a brief flows through **CEO → CTO → PM → Lead Dev → Client Success** agents, each reading/writing typed state on a shared **LangGraph** graph to produce strategy, architecture, roadmap and GTM end-to-end.
-
-`LangGraph` `Groq` `Streamlit` `Multi-Agent`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔎 [LeadFlow Agent](https://github.com/Sr1ya/leadflow-agent)
-Self-hosted lead-gen chat agent that searches X and LinkedIn, curates leads, and **remembers targeting criteria across conversations** using plain markdown as memory — no database. Sandboxed CLI tool-use, reasoning via an OpenAI-compatible gateway.
-
-`TypeScript` `LangChain v1` `LangGraph` `Agentic Memory`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🦙 [Fine-Tuned Llama-3.1-8B](https://github.com/Sr1ya/gprmax_finetuned)
-Instruction fine-tuning of **Llama-3.1-8B-Instruct** (4-bit) on a domain dataset with **Unsloth** on a single GPU. Weights [published on Hugging Face](https://huggingface.co/sriyaflows/gprmax_8).
-
-`Unsloth` `QLoRA` `4-bit` `Hugging Face`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎭 [Multimodal Emotion Recognition](https://github.com/Sr1ya/Multimodal-AI-SaaS)
-Emotion/sentiment classifier on **MELD**, late-fusing BERT text, CNN audio and vision frame features — deployed as an **AWS SageMaker** endpoint behind a full-stack SaaS app.
-
-`PyTorch` `BERT` `SageMaker` `Multimodal`
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>📂 More projects — RAG, data science & MLOps</b></summary>
-<br/>
-
-| Project | What it does | Stack |
-|---|---|---|
-| [Medical Chatbot (RAG)](https://github.com/Sr1ya/End-To-End-AI-Medical-Chatbot) | Retrieval-grounded medical Q&A over Pinecone-indexed documents | `LangChain` `Pinecone` `GPT` `Flask` |
-| [AI Resume Builder & ATS Optimizer](https://github.com/Sr1ya/AI-Resume-Analyzer) | Dual-LLM resume parsing, ATS scoring & rewriting; PDF/DOCX/LaTeX export | `OpenAI` `Gemini` `NLP` |
-| [Trader Behavior Insights](https://github.com/Sr1ya/Trader-Behavior-Insights) | Hyperliquid trades vs. Bitcoin Fear/Greed — predictive modeling & trader clustering | `XGBoost` `Random Forest` `Streamlit` |
-| [Vehicle Insurance MLOps](https://github.com/Sr1ya/Vehicle-Insurance) | End-to-end pipeline: MongoDB ingestion → training → CI/CD deployment | `MongoDB` `Docker` `CI/CD` |
-| [Digit Recognizer](https://github.com/Sr1ya/Digit-Recognizer) | Handwritten digit classifier from first principles | `NumPy` `Pandas` |
-
-</details>
-
-<!-- ═════════════════════════════  STATS  ═════════════════════════════ -->
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://streak-stats.demolab.com/?user=Sr1ya&theme=tokyonight&hide_border=true&background=0d1117&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sr1ya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&langs_count=8"/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sr1ya&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c6ff&line=00c6ff&point=ffffff&area=true"/>
-
-<br/>
-
-<img src="https://img.shields.io/github/followers/Sr1ya?style=for-the-badge&color=00C6FF&labelColor=1a1a2e&logo=github"/>
-<img src="https://komarev.com/ghpvc/?username=Sr1ya&style=for-the-badge&color=00c6ff&label=PROFILE+VIEWS"/>
-
-</div>
-
-<!-- ═════════════════════════════  CONNECT  ═════════════════════════════ -->
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/sriyaflows"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32"/></a>&nbsp;&nbsp;
-<a href="https://x.com/sriyaflows"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="32"/></a>&nbsp;&nbsp;
-<a href="https://dev.to/sr1ya"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="32"/></a>&nbsp;&nbsp;
-<a href="https://huggingface.co/sriyaflows"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="32"/></a>&nbsp;&nbsp;
-<a href="https://kaggle.com/sr1yaaa"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="32"/></a>&nbsp;&nbsp;
-<a href="https://leetcode.com/u/sriyaflows/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="32"/></a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/sriyaflows"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" height="32"/></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-dark.svg">
+  <img alt="whoami — AI/GenAI Engineer at ZyFlux LLP; previously LedgerPe and StartCoding AI; Infra-Pulse hackathon winner" src="./assets/terminal-light.svg" width="100%">
+</picture>
 
 <br/><br/>
 
-<i>"Let the model explain. Let the code decide."</i>
+<!-- ───────────── 02 · STACK ───────────── -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-stack-dark.svg">
+  <img alt="Tech stack" src="./assets/sec-stack-light.svg" width="100%">
+</picture>
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+  <img alt="LangGraph, LangChain, Claude, OpenAI, Gemini, Llama, Groq, Ollama, LiteLLM, Unsloth, Pinecone, FAISS, CLIP, Whisper, PyTorch, TensorFlow, Prophet, FastAPI, Docker, AWS SageMaker and more" src="./assets/stack-light.svg" width="100%">
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,pytorch,tensorflow,sklearn,fastapi,flask,nodejs,react,docker,aws,githubactions,mongodb,postgres,linux,git&theme=dark" />
+</p>
+
+<br/>
+
+<!-- ───────────── 03 · FEATURED ───────────── -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-projects-dark.svg">
+  <img alt="Featured builds" src="./assets/sec-projects-light.svg" width="100%">
+</picture>
+
+<p align="center">
+  <a href="https://github.com/Sr1ya/Infra-Pulse"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-infra-pulse-dark.svg"><img alt="Infra-Pulse — hackathon winner: Prophet + LSTM infrastructure damage forecasting with Ollama recommendations" src="./assets/card-infra-pulse-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/Sr1ya/Text_to_Video"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-text-to-video-dark.svg"><img alt="Text-to-Video Engine — website to narrated 1080p video with CLIP, Whisper, FAISS and Llama 4" src="./assets/card-text-to-video-light.svg" width="49%"></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Sr1ya/ledgerpe-kyc-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-kyc-agent-dark.svg"><img alt="KYC / Onboarding Agent — Claude vision + LangGraph + LiteLLM with deterministic decisions" src="./assets/card-kyc-agent-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/Sr1ya/ledgerpe-routing-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-routing-agent-dark.svg"><img alt="Routing Intelligence Agent — statistically rigorous, explainable payment routing" src="./assets/card-routing-agent-light.svg" width="49%"></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Sr1ya/ai-services-agency-langgraph"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-agency-dark.svg"><img alt="AI Services Agency — five-agent LangGraph project intake" src="./assets/card-agency-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/Sr1ya/leadflow-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-leadflow-dark.svg"><img alt="LeadFlow Agent — lead-gen agent with markdown memory" src="./assets/card-leadflow-light.svg" width="49%"></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Sr1ya/gprmax_finetuned"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-llama-ft-dark.svg"><img alt="Fine-tuned Llama-3.1-8B with Unsloth, published on Hugging Face" src="./assets/card-llama-ft-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/Sr1ya/Multimodal-AI-SaaS"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-emotion-dark.svg"><img alt="Multimodal Emotion AI — BERT + audio + vision fusion on SageMaker" src="./assets/card-emotion-light.svg" width="49%"></picture></a>
+</p>
+
+<br/>
+
+<!-- ───────────── 04 · MORE ───────────── -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-more-dark.svg">
+  <img alt="More projects" src="./assets/sec-more-light.svg" width="100%">
+</picture>
+
+| | Project | What it does | Stack |
+|:-:|---|---|---|
+| 🩺 | **[Medical Chatbot (RAG)](https://github.com/Sr1ya/End-To-End-AI-Medical-Chatbot)** | Retrieval-grounded medical Q&A over Pinecone-indexed documents | `LangChain` `Pinecone` `GPT` `Flask` |
+| 📄 | **[AI Resume Builder & ATS Optimizer](https://github.com/Sr1ya/AI-Resume-Analyzer)** | Dual-LLM resume parsing, ATS scoring & rewriting; PDF / DOCX / LaTeX export | `OpenAI` `Gemini` `NLP` |
+| 📈 | **[Trader Behavior Insights](https://github.com/Sr1ya/Trader-Behavior-Insights)** | Hyperliquid trades vs. the Bitcoin Fear/Greed index — prediction & trader clustering | `XGBoost` `Random Forest` `Streamlit` |
+| 🚗 | **[Vehicle Insurance MLOps](https://github.com/Sr1ya/Vehicle-Insurance)** | MongoDB ingestion → training → CI/CD deployment, end to end | `MongoDB` `Docker` `CI/CD` |
+| ✍️ | **[Digit Recognizer](https://github.com/Sr1ya/Digit-Recognizer)** | Handwritten digit classifier built from first principles | `NumPy` `Pandas` |
+
+<br/>
+
+<!-- ───────────── 05 · ACTIVITY ───────────── -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-stats-dark.svg">
+  <img alt="GitHub activity" src="./assets/sec-stats-light.svg" width="100%">
+</picture>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+    <img alt="3D contribution calendar" src="./profile-3d-contrib/profile-green-animate.svg" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sr1ya&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=00c6ff&icon_color=7c3aed&text_color=e2e8f0&ring_color=f472b6">
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=Sr1ya&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0284c7&icon_color=7c3aed&ring_color=db2777">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Sr1ya&hide_border=true&background=0f172a&ring=7c3aed&fire=f472b6&currStreakLabel=00c6ff&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8&stroke=1e293b">
+    <img height="175" src="https://streak-stats.demolab.com/?user=Sr1ya&hide_border=true&ring=7c3aed&fire=db2777&currStreakLabel=0284c7">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sr1ya/Sr1ya/output/github-snake-dark.svg">
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sr1ya/Sr1ya/output/github-snake.svg" width="100%">
+  </picture>
+</p>
+
+<br/>
+
+<!-- ───────────── 06 · CONNECT ───────────── -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-connect-dark.svg">
+  <img alt="Let's connect" src="./assets/sec-connect-light.svg" width="100%">
+</picture>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sriyaflows"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="30"/></a>
+  <a href="https://x.com/sriyaflows"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" height="30"/></a>
+  <a href="https://huggingface.co/sriyaflows"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="30"/></a>
+  <a href="https://kaggle.com/sr1yaaa"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" height="30"/></a>
+  <a href="https://dev.to/sr1ya"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" height="30"/></a>
+  <a href="https://leetcode.com/u/sriyaflows/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="30"/></a>
+  <a href="https://www.hackerrank.com/profile/sriyaflows"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" height="30"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Sr1ya&style=flat-square&color=7c3aed&label=profile+views" height="30"/>
+</p>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
+  <img alt="Thanks for stopping by" src="./assets/footer-light.svg" width="100%">
+</picture>
